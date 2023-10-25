@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic/480p15/partial_movie_files/PlotPiecewiseFunction/4266129954_3683755550_223132457.mp4'
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic/480p15/partial_movie_files/PlotPiecewiseFunction/1442284246_1411034066_645047407.mp4'
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic/480p15/partial_movie_files/PlotPiecewiseFunction/1442284246_345352296_297914326.mp4'
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic/480p15/partial_movie_files/PlotPiecewiseFunction/1442284246_4211697135_204971478.mp4'
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic/480p15/partial_movie_files/PlotPiecewiseFunction/1442284246_345352296_1083734052.mp4'
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic/480p15/partial_movie_files/PlotPiecewiseFunction/1442284246_3524266159_4260833523.mp4'
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic/480p15/partial_movie_files/PlotPiecewiseFunction/1442284246_190800790_1329445380.mp4'

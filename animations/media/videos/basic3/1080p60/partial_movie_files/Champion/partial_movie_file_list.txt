@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic3/1080p60/partial_movie_files/Champion/1413466013_2454952889_223132457.mp4'
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic3/1080p60/partial_movie_files/Champion/1672018281_2526496290_3173624042.mp4'
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic3/1080p60/partial_movie_files/Champion/1672018281_1419646063_1944364282.mp4'
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic3/1080p60/partial_movie_files/Champion/1672018281_2526496290_1373115032.mp4'
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic3/1080p60/partial_movie_files/Champion/1672018281_264945874_1820334006.mp4'
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic3/1080p60/partial_movie_files/Champion/1672018281_190800790_3020206989.mp4'
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic3/1080p60/partial_movie_files/Champion/1672018281_3181013937_3831527892.mp4'
+file 'file:/home/higgsboson/Codes/Sem7/COL866/animations/media/videos/basic3/1080p60/partial_movie_files/Champion/1672018281_190800790_2878586007.mp4'
